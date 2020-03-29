@@ -2,6 +2,8 @@
 
 Originally, this image is based on [riftbit/getgrav](https://hub.docker.com/r/riftbit/getgrav) but using [php:7.4-apache](https://hub.docker.com/_/php) as the base image.
 
+GitHub repository: [sheveko/docker-getgrav](https://github.com/sheveko/docker-getgrav)
+
 ## Volumes
 
 The container has two mappings for external volumes:
